@@ -1,0 +1,10 @@
+.containerTodos{
+    overflow: hidden;
+}
+
+@media(max-width: 800px){
+    .containerTodos{
+        background-color: #000;
+        color: #fff;
+    }
+}
